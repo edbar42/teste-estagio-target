@@ -17,8 +17,8 @@ enquanto K < INDICE faça {
 imprimir(SOMA);
 ```
 
-O código será executado até que tenhamos `K = 12`. Neste ponto, a estrutura `enquanto` não é executada, visto que `K` não atende mais à condição do loop (`K < INDICE`).
+O código será executado até que tenhamos `K = 12`. Neste ponto, a estrutura `enquanto` não é executada, visto que `K` não atende mais à condição do _loop_ (`K < INDICE`).
 
-Para `K = 1` até `K = 11`, `K` será acrescido em 1 e então adicionado à variável `SOMA`. Se analisarmos iteração à iteração, veremos que o valor de `SOMA` ao final será 77, que é finalmente impresso na última linha executada.
+Para `K = 1` até `K = 11`, `K` será acrescido em 1 e então adicionado à variável `SOMA`. Se analisarmos iteração a iteração, veremos que o valor de `SOMA` ao final será 77, que é finalmente impresso na última linha executada.
 
 **RESPOSTA**: `SOMA = 77`
